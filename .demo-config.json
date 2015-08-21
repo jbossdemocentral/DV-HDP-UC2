@@ -1,6 +1,6 @@
 {
-  "name":"Data Virtualization and Hortonworks Data Lake",
-  "summary":"This demo shows an example of a Security Firewall with Hortonworks Data Platform and Data Virtualization.  This is DV and HDP Use Case 2.",
+  "name":"Data Virtualization Data Firewall with Hortonworks",
+  "summary":"This demo shows an example of a Security Firewall with Hortonworks Data Platform and Data Virtualization.  This is DV and HDP Use Case 2.  Leverage JBoss Data Virtualization to provide Row Level Security and Masking of columns.",
   "author":"Kenneth Peeples",
   "category":"dv",
   "categories":["dv"],
@@ -13,7 +13,7 @@
   "links": [ 
     {
       "name":"Code",
-      "url":"https://github.com/jbossdemocentral/DV-HDP-UC3"
+      "url":"https://github.com/jbossdemocentral/DV-HDP-UC2"
     }
   ]
 }
